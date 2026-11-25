@@ -1,0 +1,7 @@
+# Compiled binaries are distributed via GitHub Releases
+*.exe
+*.pdb
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
